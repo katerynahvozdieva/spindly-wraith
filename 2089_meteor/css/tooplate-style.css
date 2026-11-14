@@ -1,7 +1,4 @@
-/*
-Template 2089 Meteor
-Custom Dark-Blue Palette (UV-DTF Theme)
-*/
+
 
 * {
     margin: 0;
@@ -375,7 +372,7 @@ ul.cd-hero-slider {
 	margin-bottom: 15px;
 }
 
-/* PORTFOLIO / CATALOG */
+
 #portfolio {
 	text-align: center;
 	background-color: #080e21;
@@ -476,7 +473,7 @@ ul.cd-hero-slider {
 /* BLOG */
 #blog {
 	background-color: #0b122b;
-	background-image: linear-gradient(rgba(11, 18, 43, 0.94), rgba(11, 18, 43, 0.94)), url(../img/blog-bg.png);
+	background-image: linear-gradient(rgba(11, 18, 43, 0.94), rgba(11, 18, 43, 0.94)), url(../img/blog-bg.webp);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -616,7 +613,7 @@ ul.cd-hero-slider {
 /* CONTACT */
 #contact {
 	background-color: #080e21;
-	background-image: linear-gradient(rgba(8, 14, 33, 0.95), rgba(8, 14, 33, 0.95)), url(../img/contact-bg.png);
+	background-image: linear-gradient(rgba(8, 14, 33, 0.95), rgba(8, 14, 33, 0.95)), url(../img/contact-bg.webp);
 	background-repeat: no-repeat;
 	width: 100%;
 	background-size: cover;
